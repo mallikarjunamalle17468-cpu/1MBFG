@@ -1,0 +1,7 @@
+git checkout main
+git checkout -b qa
+git push -u origin qa
+
+git checkout main
+git checkout -b prod
+git push -u origin prod
